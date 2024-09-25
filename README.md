@@ -1,7 +1,7 @@
 # Creating an EVM-Subnet on Avalanche
 
 ## Overview
-This project establishes an EVM Subnet on the Avalanche network named **"JamesSubnet,"** featuring its native token, **GamersTokens (JAM).** The network seamlessly integrates with MetaMask, enabling the deployment and interaction with smart contracts through the injected provider on Remix.
+This project establishes an EVM Subnet on the Avalanche network named **"LongsSubnet,"** featuring its native token, **GamersTokens (LONGS).** The network seamlessly integrates with MetaMask, enabling the deployment and interaction with smart contracts through the injected provider on Remix.
 
 ## Project Features
 This project interacts with two smart contracts: an ERC20 token and a vault contract. These contracts provide the following functionalities:
@@ -58,7 +58,9 @@ MetaMask
 Web Browser
 
 Author
-Alfeed Longdaap
+
+Alfred Longdaap
 
 License
+
 This project is licensed under the [Longs License]. See the LICENSE.md file for details.
